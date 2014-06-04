@@ -1,6 +1,11 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+@font-face{
+  font-family: 'Aller';
+  src: url('../assets/fonts/aller/Aller_Rg.ttf') format('truetype'); 
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -9,7 +14,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Aller', Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
