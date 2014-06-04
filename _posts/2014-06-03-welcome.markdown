@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2014-06-03
+categories: article
+---
+
+Welcome to my official blog, sponsored by myself! Here you'll find me talking about most of anything, but usually something developer related. Maybe, you'll find a blog about the Dash Engine, a game engine by an indie game studio that I am a part of, [Circular Studios][circular]. Or perhaps, I'll speak about Apple's next big thing, like the [Swift][swift] Programming Language.
+
+There's really no telling what I'll talk about, because it'll be whatever I choose. Why? Because this is my blog, and nobody can tell me what to do. In the words of Alexis Ohanian, co-founder of Reddit, I'm going to do this "[without their permission][book]."
+
+On a closing note, that reminds me that Net Neutrality is quickly becoming a thing of the past. While I've never much bothered with politics, Net Neutrality is something that is extremely important to users of the Web everywhere, from your grandmother to the developers behind every website. By allowing major cable companies to be able to control who gets access to what, it's vastly limiting the potential of the internet. Where would the internet be now, if it had not been for those developers that started making crummy website with flashing text and animating word art text? They probbably evolved to become the future of the web, those who forged forward to make access to information easier for all.
+
+If you want to learn more about Net Neutrality, and help fight for it check out [Save The Internet][save].
+
+Carl, Out
+
+[circular]: http://circularstudios.com/
+[swift]: https://developer.apple.com/swift/
+[book]: http://withouttheirpermission.com/
+[save]: http://www.savetheinternet.com/sti-home

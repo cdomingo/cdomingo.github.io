@@ -1,10 +1,24 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Carl Domingo
+description: "So, you've found yourself on my personal blog page? Here, I hope to enlighten minds about cool tips and tricks for coding and life in general."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://cdomingo.com"
+
+# Owner information
+owner:
+ name: Carl
+ full_name: Carl Domingo
+ avatar: 
+ bio:  
+ email: carl.m.domingo@gmail.com
+ # Social networking links are used in author-bio sidebar. Update and remove as you like.
+ twitter: carlflamingo      
+ facebook: 
+ github: cdomingo    
+ linkedin:
+ instagram: carlflamingo 
 
 # Build settings
+timezone: America/New_York
 markdown: kramdown
 permalink: pretty
