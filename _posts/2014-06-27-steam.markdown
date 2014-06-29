@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "The Steam Sale and Good Ol' Games"
+date:   2014-06-27
+categories: article
+---
+
+Hello, again friends! This week's blog is inspired by the [Steam Summer Sale][steam]. If you haven't heard of it, then obviously you don't use a PC to play games. It's arguably the best (and worst) time to buy any PC game, because there are just so many on sale. In fact, I've spent way more than I would like to admit on a lot of games, a few of which I know I will probably barely ever touch. But it does give me a nice chance to speak about WHY I bought these games in the first place.
+
+One of the best things about the sale is the fact that everything is so much cheaper than it would normally be. The fact that I can buy the entire Skyrim Package for $14, as opposed to $100 on console is such a major factor in my purchases. It also gives me a great chance to lookout for games that I've really been looking to play in the past year. Maybe, I can actually finish [Skyrim][skyrim], or get a chance to experience [Dishonored][dishonored], or have a really good reason to buy [Transistor][transistor] or [South Park: Stick of Truth][south park]. I can finally brush up on my repertoire of companies and games and really dig into all of the cool designs and mechanics that have come up in the past year.
+
+Now, with it being the summer and having tons of free time, I was able to finish Stick of Truth in less than 24 hours. If you think that's shameful, I finished Game of Thrones, start to finish, in four days. It didn't take me a day because I was bored or had nothing to do. It actually spoke to the fact that Stick of Truth was an AMAZING game. While lacking in some aspects of RPG elements, it created a very refreshing experience, a new look into how RPGs can be done. While using age old tactics of picking an ability to use against your enemy, it became more interactive by a simple addition of pressing buttons to engage in those skills. A well timed attack could achieve maximum damage with a little more on top.
+
+On the side, I've started playing arguably the most frustrating rogue-like, [Rogue Legacy][rl]. In my opinion, it is one of the most unforgiving games I've ever played. I must have died at least 20 times before I started getting a hold of everything. It really forces you to find a style that works for you, so that you can get enough money to buy something, let alone survive. Even though I'm pretty terrible at the game, it somehow manages to drag me back in to die at the hands of spikes and fireballs.
+
+Whether it be awesome AAA titles like Call of Duty: Ghosts or Saints Row IV, the biggest indie games like Broken Age and Transistor, or just a fun little pick me up playing The Sims or a Lego game, the Steam sale is best time to get the games you've been craving or to try something new. But, be warned: too many cheap games could leave your wallet worse for wear!
+
+Carl, Out
+
+[steam]: http://store.steampowered.com/
+[skyrim]: http://www.elderscrolls.com/skyrim
+[dishonored]: http://www.dishonored.com/
+[transistor]: http://supergiantgames.com/index.php/transistor/
+[south park]: http://southpark.ubi.com/stickoftruth/en-us/home/index.aspx
+[rl]: http://roguelegacy.com/
