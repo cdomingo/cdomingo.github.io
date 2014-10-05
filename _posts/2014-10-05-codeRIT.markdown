@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "codeRIT"
+date:   2014-10-05
+categories: article
+---
+
+Hello all!
+
+With hackathon season in full force right now, I figured it would be a great time to tell you about my work this year with [codeRIT][coderit].
+
+<img src="/assets/images/codeRIT/coderit.png" style="width: 600px; height: 350px;"/>
+
+We started this organization with the purpose of learning about and attending collegiate hackathons. It all began after one of my buddies came back from [Penn Apps][pennapps] last semester. I found it ridiculous that at a school with at least 10 different computing organizations from game development to CTF hacking, not a single one had a very big emphasis on hackathons.
+
+<img src="/assets/images/codeRIT/orgs.png" style="width: 500px; height: 350px;"/>
+
+We decided to change that and give people the opportunity to go to Penn Apps or MHacks or any other hackathon, so that they could apply what they learned, learn something new, or just make something awesome. We strive to teach people some cool new tech and software, so that they can use it in a hack they make. We give them some helpful tips and tricks to use, so they are better prepared for their next hackathon. Most of all, we have established a community, so that any hacker, new or veteran, can share their love of hacking and make insane projects.
+
+Currently, we are gearing our efforts towards organizing our own hackathon for next spring. In the coming weeks, we are looking to push out weekly content for our fellow hackers, so that we can help out the hacker newbies, show people how to develop for iOS or Android, and do some demos and post mortems of projects made at different hackathons. 
+
+My team's project Agentada from Big Red
+
+<a href="agentada.com" target="_blank"><img src="/assets/images/codeRIT/agentada.png" style="width: 500px; height: 500px;"/></a>
+
+Being new, we have a lot of work to do to serve our community and make it awesome. We've had a few members attend some hackathons this season and are looking to send people to many more. We want to show people why hackathons are awesome and get them as excited as we are!
+
+[coderit]: http://coderit.org/
+[pennapps]: http://2014s.pennapps.com/
+[brickhack]: http://brickhack.io/
