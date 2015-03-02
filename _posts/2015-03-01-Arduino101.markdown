@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Hello Arduino"
+date:   2015-03-01
+categories: article
+---
+
+The first thing to do any time you pick up a new language is a classic "Hello World" statement. In the hardware world, the equivalent is making an LED blink. An extremely easy, but initially daunting task. I actually burned out my first LED when I tried it on my breadboard. That was exhilarating. It also smelled horrible.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dnPPoetX0uw" frameborder="0" allowfullscreen></iframe>
+Video courtesy of TechTeacher
+
+The really awesome thing about Arduino is the sheer simplicity it takes to create anything. It doesn't take any in depth understanding of programming to do anything, and it helps lower the barrier of entry to understanding hardware and electronics. It is a fantastic tool to start learning about working with hardware. It's also a big plus that you don't have to get a soldering kit and have to learn how circuitry works too. I probably would've burned my apartment down.
+
+So, to up the ante, I wanted to blink not one...NOT TWO...NOT THREE...**BUT SIX** LEDS. I wanted to make the LEDs light up in really cool ways.  There are four main blink states. In the first state, all 6 LEDs light up at the same time. In the second, the first 2 lights, the second 2 lights, and the third 2 lights light up. In the third, the first of each 3 light up, then the second of each 3. Finally, for the last state, each LED lights up at random.
+
+The LEDs are controlled by a button that switches between the different light arrays. There is also a potentiometer that alters the speed of the blink cycles.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lHTL1OwVCRk" frameborder="0" allowfullscreen></iframe>
+
+Overall, it was a fun way to get started in the magical world of Arduinos and hardware. We'll see what projects we can come up with next!
